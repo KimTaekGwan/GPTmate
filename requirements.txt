@@ -2,5 +2,6 @@ python-dotenv
 openai
 flask
 flask_sqlalchemy
+flask_socketio
 pymysql
 cryptography
