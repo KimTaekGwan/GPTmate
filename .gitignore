@@ -1,6 +1,9 @@
 # .*venv
 .gptvenv
 .vscode
+.config
+*.jpg
+*.png
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
